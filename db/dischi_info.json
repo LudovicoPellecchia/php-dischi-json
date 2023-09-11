@@ -1,0 +1,32 @@
+[
+    {
+        "copertina": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
+        "titolo": "Sgt. Pepper's Lonely Hearts Club Band",
+        "artista": "The Beatles",
+        "anno_pubblicazione": 1967
+    },
+    {
+        "copertina": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "anno_pubblicazione": 1969
+    },
+    {
+        "copertina": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sleeve_of_the_Beatles%27_White_Album.svg/1200px-Sleeve_of_the_Beatles%27_White_Album.svg.png",
+        "titolo": "The White Album",
+        "artista": "The Beatles",
+        "anno_pubblicazione": 1968
+    },
+    {
+        "copertina": "https://2.bp.blogspot.com/-BNhEhDP0wLQ/UdK9lG46dxI/AAAAAAAABEs/L0B1MezMqTs/s721/beatles-revolver.jpg",
+        "titolo": "Revolver",
+        "artista": "The Beatles",
+        "anno_pubblicazione": 1966
+    },
+    {
+        "copertina": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg",
+        "titolo": "Rubber Soul",
+        "artista": "The Beatles",
+        "anno_pubblicazione": 1965
+    }
+]
